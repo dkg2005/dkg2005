@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Dhruv Gupta.
 - 👀 I’m interested in making solutions for IT industry.
 - 🌱 I’m currently learning Dsa with c++.
-- 💞️ I’m looking to collaborate on technical poistion.
+- 💞️ I’m looking to collaborate on technical position.
+-  I am also doing web development
 - 📫 How to reach me  : Mail me : dhruvgupta766671@gmail.com
 
 <!---
